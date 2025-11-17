@@ -6,3 +6,36 @@
     height: 200px;
     background-color: #D9D9D9;
 }
+
+.first-container-bg{
+    background-color: rgb(190, 249, 249);
+    height: 200px;
+    margin-bottom: 50px;;
+}
+
+.first-btn{
+    background-color: green;
+}
+
+.second-btn{
+    background-color: green;
+}
+
+.third-btn{
+    background-color: red;
+
+}
+
+.fourth-btn{
+    background-color: antiquewhite;
+
+
+}
+
+.fifth-btn{
+    background-color: yellow;
+}
+
+.list{
+    justify-content: center;
+}
